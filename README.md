@@ -53,4 +53,4 @@ This repository contains example implementations of Microsoft Graph API clients 
 
 ## Security Note
 
-Sensitive configuration (client secrets, tenant IDs) should be stored in `appsettings.development.json` which is excluded from source control.
+Sensitive configuration (client secrets, tenant IDs) should be stored in `appsettings.development.json` which is excluded from source control, or in 'dotnet user secrets' as best practice.
