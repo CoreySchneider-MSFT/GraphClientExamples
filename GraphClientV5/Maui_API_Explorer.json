@@ -1,0 +1,26 @@
+{
+    "GUI": {
+        "Maui":{},
+        "Blazor":{},
+        "WinForm": {}
+    },
+    "Controllers": {
+            "UI Tools Menu": {},
+            "Auth Flow": {},
+            "ConfigurationFiles":{}
+
+    },
+    "AuthFlow": [
+        {"RSOP": ""},
+        {"AppOnly":""},
+        {"Delegate":""},
+        {"DeviceCode":""},
+        {"Federated":""}
+    ],
+    "API_Products": [
+        {"ExchangeOnline":""},
+        {"SharepointOnline":""},
+        {"Teams":""},
+        {"OneDrive":""}
+    ]
+}
