@@ -25,7 +25,7 @@ This repository contains example implementations of Microsoft Graph API clients 
 ## Setup
 
 1. Clone the repository
-2. Create `appsettings.development.json` with your Azure AD credentials:
+2. Create `appsettings.json` with your EntraID App Registration credentials:
 ```json
 {
   "ClientId": "your-client-id",
